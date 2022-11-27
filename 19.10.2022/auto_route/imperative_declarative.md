@@ -140,3 +140,6 @@
             _appRouter.defaultRouteParser(includePrefixMatches: true));
   }
   ```
+  
+| [Назад](./../../README.md) | [Далее](./../auto_route/under_the_hood.md) |
+| -------------------------- | ------------------------------------------ |

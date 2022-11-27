@@ -1,5 +1,5 @@
 <p>
-	<img src="./../rersources/routes.png" alt="routes" width="250">
+	<img src="./../rersources/imperative_vs_declarative.png" alt="routes" width="250">
 </p>
 
 # Использование пакета в императивном и декларативном стилях

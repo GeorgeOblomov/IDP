@@ -6,16 +6,13 @@
 # Содержание:
 
 <p>
-    <img src="./19.10.2022/rersources/auto_route_logo.png" alt="auto_route_logo" width="250">
+    <img src="./19.10.2022/resources/auto_route_logo.png" alt="auto_route_logo" width="250">
 </p>
 
 * ## [auto_route](./19.10.2022/auto_route/imperative_declarative.md)
 
 <p>
-    <img src="./19.10.2022/rersources/flutter_tests.png" alt="flutter_tests" width="250">
+    <img src="./19.10.2022/resources/flutter_tests.png" alt="flutter_tests" width="250">
 </p>
 
-* ## [tests]()
-
-
-
+* ## [tests](./19.10.2022/tests/tests.md)
